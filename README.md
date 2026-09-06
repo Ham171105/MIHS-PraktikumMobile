@@ -1,10 +1,9 @@
 # Identitas
 
-Nama : Mohamad Ilham Huda Saputra
-NIM : H1D024126
-Shift : B
+- **Nama** : Mohamad Ilham Huda Saputra
+- **NIM** : H1D024126
+- **Shift** : B
 
-# Screenshot
+# Display Pertemuan 1
 
-## Display Pertemuan 1
 ![Display Pertemuan 1](screenshot_p1.png)
