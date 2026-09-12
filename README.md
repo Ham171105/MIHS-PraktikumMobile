@@ -10,5 +10,5 @@
 
 # Display Pertemuan 2
 
-### Video Demonstrasi
+<video src="pertemuan2.mp4" width="300" controls></video>
 
