@@ -10,8 +10,5 @@
 
 # Display Pertemuan 2
 
-### Screenshot
-![Screenshot Pertemuan 2](pertemuan2.png)
-
 ### Video Demonstrasi
 ![Video Pertemuan 2](pertemuan2.mp4)
