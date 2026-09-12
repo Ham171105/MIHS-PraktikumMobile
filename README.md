@@ -10,5 +10,7 @@
 
 # Display Pertemuan 2
 
-<video src="pertemuan2.mp4" width="300" controls></video>
+<video src="./pertemuan2.mp4" controls width="300">
+  Browser kamu tidak mendukung pemutar video.
+</video>
 
