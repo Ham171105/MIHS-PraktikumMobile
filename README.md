@@ -11,4 +11,5 @@
 # Display Pertemuan 2
 
 ### Video Demonstrasi
-![Video Pertemuan 2](pertemuan2.mp4)
+
+https://github.com/Ham171105/MIHS-PraktikumMobile/raw/main/pertemuan2.mp4
