@@ -10,7 +10,6 @@
 
 # Display Pertemuan 2
 
-<video src="./pertemuan2.mp4" controls width="300">
-  Browser kamu tidak mendukung pemutar video.
-</video>
+https://github.com/user-attachments/assets/1d8bfc3d-e2d2-458b-a9f3-31ac8523d2ef
+
 
