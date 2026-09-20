@@ -12,6 +12,5 @@
 
 https://github.com/user-attachments/assets/1d8bfc3d-e2d2-458b-a9f3-31ac8523d2ef
 
-## Display Pertemuan 3
+# Display Pertemuan 3
 
-[Display Pertemuan 3](pertemuan3.mp4)
